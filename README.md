@@ -9,14 +9,17 @@ I am excited to connect with fellow web developers, professionals, and mentors. 
 <hr>
 
 <h2>Language & Tools: ⚙️</h2>
+
+<br>
+
 <div style="width: 100%; display: flex; gap: 10px; align-items: center;">
-<img src="./img/js.svg" style="width: 60px" alt="Language">
-<img src="./img/nextjs.png" style="width: 60px" alt="Language">
+<img src="./img/js.svg" style="width: 50px" alt="Language">
+<img src="./img/nextjs.png" style="width: 70px" alt="Language">
 <img src="./img/react.svg" style="width: 60px" alt="Language">
-<img src="./img/nodejs.svg" style="width: 60px" alt="Language">
-<img src="./img/mongodb.svg" style="width: 60px" alt="Language">
+<img src="./img/nodejs.svg" style="width: 50px" alt="Language">
+<img src="./img/mongodb.svg" style="width: 70px" alt="Language">
 <img src="./img/npm.png" style="width: 60px" alt="Language">
-<img src="./img/google-developer-icon.png" style="width: 60px" alt="Language">
+<img src="./img/google-developer-icon.png" style="width: 50px" alt="Language">
 </div>
 
 <hr>
