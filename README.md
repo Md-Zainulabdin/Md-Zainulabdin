@@ -10,9 +10,9 @@ I am excited to connect with fellow web developers, professionals, and mentors. 
 
 <h2>Language & Tools: ⚙️</h2>
 
-<div style="width: 100%; display: flex; gap: 10px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,react,express,mongodb,nodejs,ts,postman,vercel,prisma" alt="Language">
+<p style="width: 100%; display: flex; gap: 10px; align-items: center;">
+<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,react,express,mongodb,nodejs,ts,postman,vercel,prisma,redux,zustand" alt="Language">
 
-</div>
+</p>
 
 <hr>
