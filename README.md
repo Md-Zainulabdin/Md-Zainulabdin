@@ -2,9 +2,8 @@
 
 <br>
 
-<p>Hello there! <strong>I'm Zain-ul-Abdin</strong>, a curious explorer deeply immersed in the world of web development. My compass is set towards creating exceptional digital experiences that leave a mark.
-
-I am excited to connect with fellow web developers, professionals, and mentors. Whether you're offering guidance, seeking collaboration, or have an opportunity that aligns with my aspirations, I'd love to hear from you. Let's learn and grow together in the ever-evolving world of web development!</p>
+<p>Hey, Iam 18 year old JavaScript/TypeScript developer, I specialize in crafting efficient and scalable applications. With a robust tech stack encompassing Next.js, React.js, MongoDB, and PostgreSQL, I bring a year of hands-on experience to the table. Proficient in Prisma for Back End wizardry, I'm driven to tackle innovative challenges in the dynamic realm of web development. Ready to contribute to groundbreaking projects and open to exciting opportunities.
+ Let's build something extraordinary together! 💻🚀 #WebDev #JavaScript #TechInnovation</p>
 
 <hr>
 
