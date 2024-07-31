@@ -1,17 +1,47 @@
-<img src="./img/link.jpg" style="width: 100%" alt="bg-img">
+<img src="https://res.cloudinary.com/debz5a6uw/image/upload/v1722453866/portfolio/github-banner_z4r9ps.jpg" style="width: 100%" alt="bg-img">
 
 <br>
 
-<p>Hey, Iam 18 year old JavaScript/TypeScript developer, I specialize in crafting efficient and scalable applications. With a robust tech stack encompassing Next.js, React.js, MongoDB, and PostgreSQL, I bring a year of hands-on experience to the table. Proficient in Prisma for Back End wizardry, I'm driven to tackle innovative challenges in the dynamic realm of web development. Ready to contribute to groundbreaking projects and open to exciting opportunities.
- Let's build something extraordinary together! 💻🚀 #WebDev #JavaScript #TechInnovation</p>
+Hey, I'm **Zain-ul-Abdin**, an 18-year-old **MERN Stack Developer** from Pakistan.
 
-<hr>
+Over the past year, I've immersed myself in the world of `JavaScript` and `TypeScript`, crafting a tech stack that speaks volumes. 
 
-<h2>Language & Tools: ⚙️</h2>
+From ReactJS and Next.js for frontend finesse to `Node.js`, `Express.js`, and databases like `MongoDB` and `PostgreSQL` on the backend, 
 
-<p style="width: 100%; display: flex; gap: 10px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,react,express,mongodb,nodejs,ts,postman,vercel,prisma,redux,zustand" alt="Language">
+I thrive on building comprehensive web applications. Prisma keeps my database relations in check,
+ while `Redux Toolkit` and `Zustand` are my trusted allies for state management.
+
+ Join me on this coding adventure as I carve my path in the tech landscape!
+
+🔗 Connect with Me:
+
+Portfolio: mza-portfolio.vercel.app
+LinkedIn: linkedin.com/in/md-zainulabdin <br>
+
+
+
+# Tech Stack
+
+<!-- <table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; border: 1px solid; text-align: center;">Frontend</th>
+      <th style="padding: 10px; border: 1px solid; text-align: center;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid; text-align: center;">
+        <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux,zustand" alt="Frontend Tech" style="width: 80%;">
+      </td>
+      <td style="padding: 10px; border: 1px solid; text-align: center;">
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postman,vercel,prisma" alt="Backend Tech" style="width: 80%;">
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postman,vercel,prisma," alt="Language">
 
 </p>
 
-<hr>
