@@ -41,7 +41,7 @@ LinkedIn: linkedin.com/in/md-zainulabdin <br>
   </tbody>
 </table> -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postman,vercel,prisma," alt="Language">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postman,vercel,prisma,python,fastapi" alt="Language">
 
 </p>
 
